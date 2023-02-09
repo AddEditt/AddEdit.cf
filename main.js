@@ -1,7 +1,7 @@
 var song = document.getElementById("song"); 
 var video = document.getElementById("video"); 
 
-song.volume = 0.25; 
+song.volume = 0; 
 
 function start() {
     document.getElementById("start").style.display = "none";
